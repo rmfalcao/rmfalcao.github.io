@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: About me
+# title: About me
 ---
 
 # Researcher on Software Engineering at Fraunhofer IESE, Lecturer of Software Architecture at Mannheim University of Applied Sciences
