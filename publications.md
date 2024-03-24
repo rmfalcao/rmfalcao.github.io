@@ -8,7 +8,7 @@
 layout: page
 title: Publications
 ---
-Here are some of my publications. For a comprehensive list, please refer to my profile on [Google Scholar profile](https://scholar.google.com/citations?user=95yhrKoAAAAJ).
+**Here are some of my publications. For a comprehensive list, please refer to my profile on  <a href="https://scholar.google.com/citations?user=95yhrKoAAAAJ" target="_blank">Google Scholar profile</a>.**
 
 - Falcão, R., King, R., and Carvalho, A.L. "xPACE and TASC Modeler: Tool support for data-driven context modeling". In 28th International Working Conference on Requirements Engineering: Foundation for Software Quality. CEUR WS, 2022.
 - Falcão, R., Matar, R., Rauch, R., Elberzhager, F., and Koch, M. "A Reference Architecture for Enabling Interoperability and Data Sovereignty in the Agricultural Data Space." Information 14, no. 3 (2023): 197. (download PDF)
