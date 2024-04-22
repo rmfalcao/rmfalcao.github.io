@@ -9,7 +9,7 @@ layout: home
 title: About me
 ---
 
-![Alt Text](books.jpg)
+![Here are some of the books on my shelf.](books2.jpg)
 
 # Researcher on Software Engineering at Fraunhofer IESE, Lecturer of Software Architecture at Mannheim University of Applied Sciences
 
