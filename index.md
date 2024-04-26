@@ -19,9 +19,9 @@ I am currently a researcher, senior software architect, and project manager at t
 
 ## Research interests
 
-- Experimental software engineering
+- Empirical software engineering
 - Context awareness
 - Data-driven context modeling
-- Interoperability
 - Generative AI for software architecture
-- Privacy-enhancing technologies							
+- Interoperability
+- Privacy-enhancing technologies
