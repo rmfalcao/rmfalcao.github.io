@@ -11,7 +11,7 @@ title: Publications
 **Here are some of my publications. For a comprehensive list, please refer to my profile on  <a href="https://scholar.google.com/citations?user=95yhrKoAAAAJ" target="_blank">Google Scholar</a>.**
 
 # Pre-prints (to appear)
-- Falcão, R., Hosseinzadeh, A. "Towards a decentralized data privacy protocol for self-sovereignty in the digital world". [ArXiv.org](https://arxiv.org/abs/2404.12837) (preprint). 2024.
+- Falcão, R., Hosseinzadeh, A. **Towards a decentralized data privacy protocol for self-sovereignty in the digital world**. [ArXiv.org](https://arxiv.org/abs/2404.12837) (preprint). 2024.
   
 # Published (selection)
 - Adler, R., Elberzhager, F., Falcão, R., Siebert, J. **Defining and Researching “Dynamic Systems of Systems”**. [Software](https://doi.org/10.3390/software3020009) 2024, 3, 183-205.
