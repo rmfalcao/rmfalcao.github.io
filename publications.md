@@ -14,6 +14,7 @@ title: Publications
 - Falcão, R., Hosseinzadeh, A. "Towards a decentralized data privacy protocol for self-sovereignty in the digital world". [ArXiv.org](https://arxiv.org/abs/2404.12837) (preprint). 2024.
   
 # Published (selection)
+- Adler, R., Elberzhager, F., Falcão, R., Siebert, J. **Defining and Researching “Dynamic Systems of Systems”**. [Software](https://doi.org/10.3390/software3020009) 2024, 3, 183-205.
 - Falcão, R., Matar, R., Rauch, B., Elberzhager, F., & Koch, M. (2023). **A Reference Architecture for Enabling Interoperability and Data Sovereignty in the Agricultural Data Space**. [Information](https://www.mdpi.com/2078-2489/14/3/197), 14(3), 197.
 - Falcão, R., Matar, R., Rauch, B. **Using I4. 0 digital twins in agriculture**. In European Conference on Software Architecture 2022 Sep 19 [(pp. 483-498)](https://link.springer.com/chapter/10.1007/978-3-031-36889-9_32). Cham: Springer International Publishing.
 - Falcão, R., King, R., and Carvalho, A.L. **xPACE and TASC Modeler: Tool support for data-driven context modeling (Best Tool Paper Award)**. In 28th International Working Conference on Requirements Engineering: Foundation for Software Quality. [CEUR WS](https://ceur-ws.org/Vol-3122/PT-paper-4.pdf), 2022.
