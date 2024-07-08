@@ -12,7 +12,9 @@ title: Publications
 ---
 **Here are some of my publications. For a comprehensive list, please refer to my profile on  <a href="https://scholar.google.com/citations?user=95yhrKoAAAAJ" target="_blank">Google Scholar</a>.**
 
+# Pre-prints (to appear)
 
+- Falcão, R., Jedlitschka, A., Elberzhager, F., & Rombach, D. (2024). Experiences in Using the V-Model as a Framework for Applied Doctoral Research. Preprint available on [arXiv](https://arxiv.org/abs/2407.04563).
   
 # Published (selection)
 - Falcão, R., Hosseinzadeh, A. **Towards a decentralized data privacy protocol for self-sovereignty in the digital world**. ASPIRING'24. [CEUR-WS](https://ceur-ws.org/Vol-3674/ASPIRING-paper1.pdf). 2024.
