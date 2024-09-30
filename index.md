@@ -24,6 +24,6 @@ I am currently a researcher, senior software architect, and project manager at t
 - Empirical software engineering
 - Context awareness
 - Data-driven context modeling
-- Generative AI for software architecture
+- Generative AI in software architecture
 - Interoperability
 - Privacy-enhancing technologies
