@@ -21,9 +21,9 @@ I am currently a researcher, senior software architect, and project manager at t
 
 ## News
 
-- I am part of the Organizing Committee of [SAGAI'25, the 1st International Workshop on Software Architecture and Generative AI](https://www.iese.fraunhofer.de/en/events/sagai.html), to be held together with ICSA'25 in Odense (Denmark).
-- I am contributing to the Program Committee of [ICSA'25](https://conf.researchr.org/home/icsa-2025) (track "Software Architecture in Practice").
-- InfoDays 2024 Modernes API: In September 2024, I talked in Cologne (Germany) about the potential for using generative AI to implement generic APIs. The slides can be found [here](202409266_Falcao_InfoDays-2024.pdf).
+- **SAGAI'25:** I am part of the Organizing Committee of [SAGAI'25, the 1st International Workshop on Software Architecture and Generative AI](https://www.iese.fraunhofer.de/en/events/sagai.html), to be held together with ICSA'25 in Odense (Denmark).
+- **ICSA'25:** I am contributing to the Program Committee of [ICSA'25](https://conf.researchr.org/home/icsa-2025) (track "Software Architecture in Practice").
+- **InfoDays 2024 Modernes API:** In September 2024, I talked in Cologne (Germany) about the potential for using generative AI to implement generic APIs. The slides can be found [here](202409266_Falcao_InfoDays-2024.pdf).
 
 ## Research interests
 
