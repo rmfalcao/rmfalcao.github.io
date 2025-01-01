@@ -12,11 +12,10 @@ title: Publications
 ---
 **Here are some of my publications. For a comprehensive list, please refer to my profile on  <a href="https://scholar.google.com/citations?user=95yhrKoAAAAJ" target="_blank">Google Scholar</a>.**
 
-# Pre-prints (to appear)
 
-- Falcão, R., Jedlitschka, A., Elberzhager, F., & Rombach, D. (2024). **Experiences in Using the V-Model as a Framework for Applied Doctoral Research.** ArXiv. [/abs/2407.04563](https://arxiv.org/abs/2407.04563)
   
 # Published (selection)
+- Falcão, R., Jedlitschka, A., Elberzhager, F., & Rombach, D. (2024). **Experiences in Using the V-Model as a Framework for Applied Doctoral Research.** Handbook on Teaching Empirical Software Engineering, 255. [Springer](https://link.springer.com/book/10.1007/978-3-031-71769-7) (preprint on [ArXiv](https://arxiv.org/abs/2407.04563)).
 - Falcão, R., Hosseinzadeh, A. **Towards a decentralized data privacy protocol for self-sovereignty in the digital world**. ASPIRING'24. [CEUR-WS](https://ceur-ws.org/Vol-3674/ASPIRING-paper1.pdf). 2024.
 - Adler, R., Elberzhager, F., Falcão, R., Siebert, J. **Defining and Researching “Dynamic Systems of Systems”**. [Software](https://doi.org/10.3390/software3020009) 2024, 3, 183-205.
 - Falcão, R., Matar, R., Rauch, B., Elberzhager, F., & Koch, M. (2023). **A Reference Architecture for Enabling Interoperability and Data Sovereignty in the Agricultural Data Space**. [Information](https://www.mdpi.com/2078-2489/14/3/197), 14(3), 197.
