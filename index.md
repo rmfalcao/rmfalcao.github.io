@@ -17,19 +17,20 @@ I am a computer scientist who worked in industry for 15 years as a project manag
 
 I have contributed as a reviewer/PC member in journals, conferences, and workshops, including JSS, SQJ, ICSA, REFSQ, RCIS, CIbSE, and CREARE.
 
-I am currently a researcher, senior software architect, and project manager at the [Fraunhofer Institute for Experimental Software Engineering (IESE)](https://www.iese.fraunhofer.de/) (Germany) and a lecturer of Software Architecture at [Mannheim University of Applied Sciences](https://www.hs-mannheim.de/).
+I am currently a researcher, senior software architect, and project manager at the [Fraunhofer Institute for Experimental Software Engineering (IESE)](https://www.iese.fraunhofer.de/) (Germany), where I lead the topic **Generative AI and Sofware Architecture**. Besides that, I lecture Software Architecture at [Mannheim University of Applied Sciences](https://www.hs-mannheim.de/).
 
 ## News
+- **CREARE'25:** I am contributing to the Program Committee of [CREARE'25](https://creare.iese.de/).
 - **RCIS'25:** I am contributing to the Program Committee of [RCIS'25](https://www.rcis-conf.com/rcis2025/).
-- **SAGAI'25:** I am part of the Organizing Committee of [SAGAI'25, the 1st International Workshop on Software Architecture and Generative AI](https://www.iese.fraunhofer.de/en/events/sagai.html), to be held together with ICSA'25 in Odense (Denmark).
+- **SAGAI'25:** I am co-organizing [SAGAI'25, the 1st International Workshop on Software Architecture and Generative AI](https://www.iese.fraunhofer.de/en/events/sagai.html), to be held together with ICSA'25 in Odense (Denmark).
 - **ICSA'25:** I am contributing to the Program Committee of [ICSA'25](https://conf.researchr.org/home/icsa-2025) (track "Software Architecture in Practice").
 - **InfoDays 2024 Modernes API:** In September 2024, I talked in Cologne (Germany) about the potential for using generative AI to implement generic APIs. The slides can be found [here](202409266_Falcao_InfoDays-2024.pdf).
 
 ## Research interests
 
 - Empirical software engineering
+- Generative AI and software architecture
 - Context awareness
 - Data-driven context modeling
-- Generative AI in software architecture
 - Interoperability
 - Privacy-enhancing technologies
