@@ -20,6 +20,7 @@ I have contributed as a reviewer/PC member in journals, conferences, and worksho
 I am currently a researcher, senior software architect, and project manager at the [Fraunhofer Institute for Experimental Software Engineering (IESE)](https://www.iese.fraunhofer.de/) (Germany), where I lead the topic **Generative AI and Sofware Architecture**. Besides that, I lecture Software Architecture at [Mannheim University of Applied Sciences](https://www.hs-mannheim.de/).
 
 ## News
+- **ASPIRING'25:** I am contributing to the Program Committee of the [2nd International Usable Security and Privacy for Emerging Technologies Workshop](https://aspiring-workshop.github.io/).
 - **XX SBSC:** I am contributing to the Program Committee of the [XX Simpósio Brasileiro de Sistemas Colaborativos](https://sbsc.sbc.org.br/2025/index.php/desenho-de-pesquisa/) (tracks "Desenho de Pesquisa" and "Reflexões e Provocações").
 - **CREARE'25:** I am contributing to the Program Committee of [CREARE'25](https://creare.iese.de/).
 - **RCIS'25:** I am contributing to the Program Committee of [RCIS'25](https://www.rcis-conf.com/rcis2025/).
