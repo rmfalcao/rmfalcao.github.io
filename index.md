@@ -11,13 +11,13 @@ title: About me
 
 ![Here are some of the books on my shelf.](books2.jpg)
 
-# Researcher on Software Engineering at Fraunhofer IESE, Lecturer of Software Architecture at Mannheim University of Applied Sciences
+# Researcher on Software Engineering at Fraunhofer IESE, Lecturer of Software Architecture at Mannheim Technical University of Applied Sciences
 
 I am a computer scientist who worked in industry for 15 years as a project manager, project leader, and software engineer, with experience in many domains but particularly in mobile telecommunications (Operation Support Systems and Business Support Systems). I began researching context awareness in 2012, and in 2015, I started my PhD on the topic. I completed my PhD in 2022 at the University of Kaiserslautern (Germany). My thesis, titled "Data-driven Context Modeling for the Elicitation of Context-aware Functionalities," is available for download [here](https://publica.fraunhofer.de/bitstreams/7593ac9b-ade9-4871-8ac1-718995669a45/download).
 
 I have contributed as a reviewer/PC member in journals, conferences, and workshops, including JSS, SQJ, ICSA, REFSQ, RCIS, CIbSE, SBSC, and CREARE.
 
-I am currently a researcher, senior software architect, and project manager at the [Fraunhofer Institute for Experimental Software Engineering (IESE)](https://www.iese.fraunhofer.de/) (Germany), where I lead the topic **Generative AI and Sofware Architecture**. Besides that, I lecture Software Architecture at [Mannheim University of Applied Sciences](https://www.hs-mannheim.de/).
+I am currently a researcher, senior software architect, and project manager at the [Fraunhofer Institute for Experimental Software Engineering (IESE)](https://www.iese.fraunhofer.de/) (Germany), where I lead the topic **Generative AI and Sofware Architecture**. Besides that, I lecture Software Architecture at [Mannheim Technical University of Applied Sciences](https://www.hs-mannheim.de/).
 
 ## News
 - **ASPIRING'25:** I am contributing to the Program Committee of the [2nd International Usable Security and Privacy for Emerging Technologies Workshop](https://aspiring-workshop.github.io/).
