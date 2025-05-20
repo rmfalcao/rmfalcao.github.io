@@ -10,7 +10,7 @@
 layout: page
 title: Publications
 ---
-**Here are some of my publications. For a comprehensive list, please refer to my profile on  <a href="https://scholar.google.com/citations?user=95yhrKoAAAAJ" target="_blank">Google Scholar</a>.**
+**Here are some of my publications. For a comprehensive list, please refer to my profile on  <a href="https://scholar.google.com/citations?user=95yhrKoAAAAJ" target="_blank">Google Scholar</a>. Some of my publications are also linked to <a href="https://orcid.org/0000-0003-1222-0046" target="_blank">my ORCID profile</a>.**
 
 
   
