@@ -20,12 +20,13 @@ I have contributed as a reviewer/PC member in journals, conferences, and worksho
 I am currently a researcher, senior software architect, and project manager at the [Fraunhofer Institute for Experimental Software Engineering (IESE)](https://www.iese.fraunhofer.de/) (Germany), where I lead the topic **Generative AI and Sofware Architecture**. Besides that, I lecture Software Architecture at [Mannheim Technical University of Applied Sciences](https://www.hs-mannheim.de/).
 
 ## News
+- **SAGAI 2026:** I am co-organizing [SAGAI'26, the 2nd International Workshop on Software Architecture and Generative AI](https://www.iese.fraunhofer.de/sagai), to be held together with ICSA'26 in Amsterdam (Netherlands).
 - **AGENT 2026:** I am contributing to the Program Committee of the [International Workshop on Agentic Engineering](https://conf.researchr.org/home/icse-2026/agent-2026).
 - **ASPIRING'25:** I am contributing to the Program Committee of the [2nd International Usable Security and Privacy for Emerging Technologies Workshop](https://aspiring-workshop.github.io/).
 - **XX SBSC:** I am contributing to the Program Committee of the [XX Simpósio Brasileiro de Sistemas Colaborativos](https://sbsc.sbc.org.br/2025/index.php/desenho-de-pesquisa/) (tracks "Desenho de Pesquisa" and "Reflexões e Provocações").
 - **CREARE'25:** I am contributing to the Program Committee of [CREARE'25](https://creare.iese.de/).
 - **RCIS'25:** I am contributing to the Program Committee of [RCIS'25](https://www.rcis-conf.com/rcis2025/).
-- **SAGAI'25:** I am co-organizing [SAGAI'25, the 1st International Workshop on Software Architecture and Generative AI](https://www.iese.fraunhofer.de/en/events/sagai.html), to be held together with ICSA'25 in Odense (Denmark).
+- **SAGAI 2025:** I am co-organizing [SAGAI'25, the 1st International Workshop on Software Architecture and Generative AI](https://www.iese.fraunhofer.de/en/events/sagai.html), to be held together with ICSA'25 in Odense (Denmark).
 - **ICSA'25:** I am contributing to the Program Committee of [ICSA'25](https://conf.researchr.org/home/icsa-2025) (track "Software Architecture in Practice").
 - **InfoDays 2024 Modernes API:** In September 2024, I talked in Cologne (Germany) about the potential for using generative AI to implement generic APIs. The slides can be found [here](202409266_Falcao_InfoDays-2024.pdf).
 
