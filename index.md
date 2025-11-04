@@ -21,6 +21,7 @@ I am currently a researcher, senior software architect, and project manager at t
 
 ## News
 - **A2SE 2026:** I've been invited to join [A2SE 2026, the 1st Seminar on Agentic AI in Software Engineering](https://sites.google.com/view/a2se2025/home), to be held in Rio de Janeiro (Brazil).
+- **CREARE'26:** I am contributing to the Program Committee of [CREARE'26](https://creare.iese.de/).
 - **SAGAI 2026:** I am co-organizing [SAGAI'26, the 2nd International Workshop on Software Architecture and Generative AI](https://www.iese.fraunhofer.de/sagai), to be held together with ICSA'26 in Amsterdam (Netherlands).
 - **AGENT 2026:** I am contributing to the Program Committee of the [International Workshop on Agentic Engineering](https://conf.researchr.org/home/icse-2026/agent-2026).
 - **ASPIRING'25:** I am contributing to the Program Committee of the [2nd International Usable Security and Privacy for Emerging Technologies Workshop](https://aspiring-workshop.github.io/).
