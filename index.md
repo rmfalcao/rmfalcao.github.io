@@ -17,7 +17,7 @@ I am a computer scientist who worked in industry for 15 years as a project manag
 
 I have contributed as a reviewer/PC member in journals, conferences, and workshops, including JSS, SQJ, JSME, ICSA, REFSQ, RCIS, CIbSE, SBSC, AGENT, and CREARE. I am one of the co-organizers of [SAGAI](https://www.iese.fraunhofer.de/en/events/sagai.html).
 
-I am currently a researcher, senior software architect, and project manager at the [Fraunhofer Institute for Experimental Software Engineering (IESE)](https://www.iese.fraunhofer.de/) (Germany), where I lead the topic **Generative AI and Sofware Architecture**. Besides that, I lecture Software Architecture at [Mannheim Technical University of Applied Sciences](https://www.hs-mannheim.de/).
+I am currently a researcher, senior software architect, and project manager at the [Fraunhofer Institute for Experimental Software Engineering (IESE)](https://www.iese.fraunhofer.de/) (Germany), where I lead the topic **GenAI-enabled Software Architecture**. Besides that, I lecture Software Architecture at [Mannheim Technical University of Applied Sciences](https://www.hs-mannheim.de/).
 
 ## News
 - **A2SE 2026:** I've been invited to join [A2SE 2026, the 1st Seminar on Agentic AI in Software Engineering](https://sites.google.com/view/a2se2025/home), to be held in Rio de Janeiro (Brazil).
