@@ -20,6 +20,7 @@ I have contributed as a reviewer/PC member in journals, conferences, and worksho
 I am currently **Expert Scientist "Intelligent Information Systems"** at the [Fraunhofer Institute for Experimental Software Engineering (IESE)](https://www.iese.fraunhofer.de/) (Germany), where I lead the topic **GenAI-enabled Software Architecture**. Besides that, I lecture Software Architecture at [Mannheim Technical University of Applied Sciences](https://www.hs-mannheim.de/).
 
 ## News
+- **GenAI4SE 2026:** I am contributing to the Program Committee of [GenAI4SE 2026](https://genai4se.github.io/ISEC26-Workshop/).
 - **A2SE 2026:** I've been invited to join [A2SE 2026, the 1st Seminar on Agentic AI in Software Engineering](https://sites.google.com/view/a2se2025/home), to be held in Rio de Janeiro (Brazil).
 - **CREARE'26:** I am contributing to the Program Committee of [CREARE'26](https://creare.iese.de/).
 - **SAGAI 2026:** I am co-organizing [SAGAI'26, the 2nd International Workshop on Software Architecture and Generative AI](https://www.iese.fraunhofer.de/sagai), to be held together with ICSA'26 in Amsterdam (Netherlands).
