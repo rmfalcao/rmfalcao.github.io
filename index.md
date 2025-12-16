@@ -11,13 +11,13 @@ title: About me
 
 ![Here are some of the books on my shelf.](books4.jpg)
 
-# Expert Scientist at Fraunhofer IESE, Lecturer of Software Architecture at Mannheim Technical University of Applied Sciences
+# Expert Scientist at Fraunhofer IESE, Lecturer at RPTU Kaiserslautern-Landau and at Mannheim Technical University of Applied Sciences
 
 I am a computer scientist who worked in industry for 15 years as a project manager, project leader, and software engineer, with experience in many domains but particularly in mobile telecommunications (Operation Support Systems and Business Support Systems). I began researching context awareness in 2012, and in 2015, I started my PhD on the topic. I completed my PhD in 2022 at the University of Kaiserslautern (Germany). My thesis, titled "Data-driven Context Modeling for the Elicitation of Context-aware Functionalities," is available for download [here](https://publica.fraunhofer.de/bitstreams/7593ac9b-ade9-4871-8ac1-718995669a45/download).
 
 I have contributed as a reviewer/PC member in journals, conferences, and workshops, including JSS, SQJ, JSME, ICSA, REFSQ, RCIS, CIbSE, SBSC, AGENT, and CREARE. I am one of the co-organizers of [SAGAI](https://www.iese.fraunhofer.de/en/events/sagai.html).
 
-I am currently **Expert Scientist "Intelligent Information Systems"** at the [Fraunhofer Institute for Experimental Software Engineering (IESE)](https://www.iese.fraunhofer.de/) (Germany), where I lead the topic **GenAI-enabled Software Architecture**. Besides that, I lecture Software Architecture at [Mannheim Technical University of Applied Sciences](https://www.hs-mannheim.de/).
+I am currently **Expert Scientist "Intelligent Information Systems"** at the [Fraunhofer Institute for Experimental Software Engineering (IESE)](https://www.iese.fraunhofer.de/) (Germany), where I lead the topic **GenAI-enabled Software Architecture**. Besides that, I lecture "Empirical Methods in Software Engineering" at [RPTU Kaiserslautern-Landau](https://rptu.de/), and "Software Architecture" and "Empirical Methods in Software Engineering" at [Mannheim Technical University of Applied Sciences](https://www.hs-mannheim.de/).
 
 ## News
 - **GenAI4SE 2026:** I am contributing to the Program Committee of [GenAI4SE 2026](https://genai4se.github.io/ISEC26-Workshop/).
