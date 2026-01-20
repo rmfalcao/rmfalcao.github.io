@@ -13,7 +13,7 @@ title: Publications
 **Here are some of my publications. For a comprehensive list, please refer to my profile on  <a href="https://scholar.google.com/citations?user=95yhrKoAAAAJ" target="_blank">Google Scholar</a>. Some of my publications are also linked to <a href="https://orcid.org/0000-0003-1222-0046" target="_blank">my ORCID profile</a>.**
 
 # Pre-prints (to appear)
-- Falcão, R., Schweitzer, S., Siebert, J., Calvet, E., Elberzhager, F. **Evaluating the effectiveness of LLM-based interoperability.** Accepted for ICSE 2026 (preprint on [ArXiv](https://arxiv.org/abs/2510.23893)).
+- Falcão, R., Schweitzer, S., Siebert, J., Calvet, E., Elberzhager, F. **Evaluating the effectiveness of LLM-based interoperability.** Accepted for ICSE 2026 Research Track (preprint on [ArXiv](https://arxiv.org/abs/2510.23893)).
   
 # Published (selection)
 - Falcão, R., Jedlitschka, A., Elberzhager, F., & Rombach, D. (2024). **Experiences in Using the V-Model as a Framework for Applied Doctoral Research.** Handbook on Teaching Empirical Software Engineering, 255. [Springer](https://link.springer.com/book/10.1007/978-3-031-71769-7) (preprint on [ArXiv](https://arxiv.org/abs/2407.04563)).
