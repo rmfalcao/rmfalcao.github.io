@@ -39,8 +39,8 @@ I am currently **Expert Scientist "Intelligent Information Systems"** at the [Fr
 ## Research interests
 
 - Empirical software engineering
+- Autonomous interoperability
+- Self-coding information systems
 - Generative AI and software architecture
 - Context awareness
-- Data-driven context modeling
-- Interoperability
 - Privacy-enhancing technologies
