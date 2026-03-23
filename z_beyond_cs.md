@@ -10,4 +10,15 @@
 layout: page
 title: Beyond CS
 ---
-To appear.
+![Here are some of the books on my shelf.](bookshelf_beyond_cs.JPG)
+
+* TOC
+{:toc}
+
+# Have computer science chosen me?
+
+To appear...
+
+# "Knopffußball"
+
+To appear...
