@@ -15,7 +15,7 @@ title: Beyond CS
 * TOC
 {:toc}
 
-# Have computer science chosen me?
+# Has computer science chosen me?
 
 For a long time, I have asked myself whether I chose computer science or computer science "chose" me. My father is a computer scientist, and my two older brothers are computer scientists. My sister isn't, but her husband is. An older cousin is also a computer scientist.
 
