@@ -33,6 +33,10 @@ I have lived in Germany for more than one decade and have a personal goal of int
 
 I brought some teams (the "buttons") from Brazil and built a tabletop following some tutorials I found on the Internet. At least three German colleagues enjoyed the game, and with two of them I used to play regularly. I just need to find three more people to ground my _Verein_ ("association"), which already has a name: "Verein für Knopffußball-Organization" The acronym will therefore be "VKO", which in German, just coincidentally, sounds like my last name ("Falcão"). What were the chances!
 
+![Knopffußball.](knopffussball.jpeg)
+
+
+
 # Calligraphy work
 
 I am not a calligrapher. But I am confident enough to share some calligraphic work I created to decorate our house. The works were printed on paper of 350 g and size 30x40 cm.
