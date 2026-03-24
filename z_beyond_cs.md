@@ -41,6 +41,8 @@ I brought some teams (the "buttons") from Brazil and built a tabletop following 
 
 I am not a calligrapher. But I am confident enough to share some calligraphic work I created to decorate our house. The works were printed on paper of 350 g and size 30x40 cm.
 
+<img src="gott-der-hoffnung_framed_1.JPG" alt="One of my calligraphy works. Here it is written 'Gott der Hoffnung'." width="300" />
+
 You are welcome to [download](gott-der-hoffnung.pdf), print, and use it if you like ([CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)).
 
 But if you are interested in seeing a collection of works of some of the most talented calligraphers in the world, I recommend [the book 3:16 by Prof. Knuth](https://www-cs-faculty.stanford.edu/~knuth/316.html).
