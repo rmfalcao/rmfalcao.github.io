@@ -20,6 +20,7 @@ I have contributed as a reviewer/PC member in journals, conferences, and worksho
 I am currently **Expert Scientist "Intelligent Information Systems"** at the [Fraunhofer Institute for Experimental Software Engineering (IESE)](https://www.iese.fraunhofer.de/) (Germany), where I lead the topic **GenAI-enabled Software Architecture**. Besides that, I lecture "Empirical Methods in Software Engineering" at [RPTU Kaiserslautern-Landau](https://rptu.de/), and "Software Architecture" and "Empirical Methods in Software Engineering" at [Mannheim Technical University of Applied Sciences](https://www.hs-mannheim.de/).
 
 ## News
+- **ASISAS 2026:** I am contributing to the Program Committee of [ASISAS 2026, the 1st International Workshop on Architecting Secure, Intelligent, and Sovereign Agentic Systems](https://conf.researchr.org/track/ecsa-2026/asisas-2026).
 - **ICSE 2026:** I will be panelist on the theme "Software Architecture Research and Directions" at [ICSE 2026](https://conf.researchr.org/home/icse-2026) (Session "Software Architecture BoF").
 - **RCIS'26:** I am contributing to the Program Committee of [RCIS'26](https://www.rcis-conf.com/rcis2026/).
 - **ICSE 2026:** I am contributing to the Program Committee of [ICSE 2026](https://conf.researchr.org/home/icse-2026) (track "Artifact Evaluation").
