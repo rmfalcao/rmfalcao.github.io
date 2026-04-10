@@ -45,7 +45,7 @@ I am not a calligrapher. But I am confident enough to share some calligraphic wo
 
 You are welcome to [download](gott-der-hoffnung.pdf), print, and use it if you like ([CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)).
 
-But if you are interested in seeing a collection of works of some of the most talented calligraphers in the world, I recommend [the book 3:16 by Prof. Knuth](https://www-cs-faculty.stanford.edu/~knuth/316.html).
+**But if you are interested in seeing a collection of works of some of the most talented calligraphers in the world, I recommend [the book 3:16 by Prof. Knuth](https://www-cs-faculty.stanford.edu/~knuth/316.html).**
 
 (Talking about Prof. Knuth, maybe this is the moment I can mention that [I am a proud "account holder" at his "Bank of San Seriff"](https://www-cs-faculty.stanford.edu/~knuth/boss.html), for I found a mistake in his book ["Things a Computer Scientist Rarely Talks About"](https://www-cs-faculty.stanford.edu/~knuth/things.html) - which, by the way, I recommend to all computer scientists.)
 
